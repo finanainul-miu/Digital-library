@@ -6,7 +6,7 @@ Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 
 1. [Matahari](ebook/Tere_Liye_-_Matahari.pdf.pdf) - Tere Liye (2016)
-2. [Bulan](ebook/Tere_Liye_-_Bulan.pdf) - Tere Liye (2015)
+2. [Bulan](ebook/Tere Liye - Bulan.pdf) - Tere Liye (2015)
 3. [Bumi](ebook/Bumi - Tere liye.pdf) - Tere Liye (2014)
 4. [Negeri di ujung tanduk](ebook/Negeri di ujung tanduk - tere liye.pdf) - Tere Liye (2013)
 5. [Laut Bercerita](ebook/Laut Bercerta.pdf.pdf) - LeiLa S. Chudori (2017)
