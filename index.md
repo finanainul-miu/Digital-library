@@ -15,7 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Manusmriti ](ebook/Manusmriti.pdf) - George Bühler (1886)
 9. [The Little Book of Emotional Freedom](ebook/The-Little-Book-of-Emotional-Freedom.pdf) - Dipanshu Rawal (2022) 
 10. [The Science of Human Nature A Psychology for Beginners ](ebook/The-Science-of-Human-Nature-A-Psychology-for-Beginners.pdf) - Pyle, William Henry (1917)
-11.  [Resume Kuliah umum](ebook/Resume Kuliah umum _ Fina Nailul Musayaroh (1).pdf) -  Fina Nailul Musayaroh (13040123140147)
+11. [Resume Kuliah umum](ebook/Resume Kuliah umum _ Fina Nailul Musayaroh (1).pdf) -  Fina Nailul Musayaroh (13040123140147)
 
 
 
