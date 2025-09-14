@@ -9,7 +9,7 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [Bulan](ebook/Tere_Liye_-_Bulan.pdf.pdf) - Tere Liye (2015)
 3. [Bumi](ebook/Tere_Liye_-_Bumi.pdf.pdf) - Tere Liye (2014)
 4. [Negeri di ujung tanduk](ebook/Negeri di ujung tanduk - tere liye.pdf) - Tere Liye (2013)
-5. [Laut Bercerita](ebook/Laut Bercerita.pdf.pdf) - LeiLa S. Chudori (2017)
+5. [Laut Bercerita](ebook/Laut Bercerita.pdf) - LeiLa S. Chudori (2017)
 6. [Sejarah Islam di Nusantara ](ebook/Sejarah Islam di Nusantara ( PDFDrive ).pdf) - MICHAEL LAFFAN (2015)
 7. [Paris Sejarah yang Tersembunyi ](ebook/Isi_Paris_fiks.pdf) - Andrew Hussey (2006)
 8. [Manusmriti ](ebook/Manusmriti.pdf) - George Bühler (1886)
