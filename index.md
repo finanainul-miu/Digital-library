@@ -5,8 +5,9 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 
-1.[Negri di Ujung Tanduk].(ebook/Negri di Ujung Tanduk.pdf)-Tere Liye (2013)
-2.Matahari
+1. [Matahari](ebook/Tere_Liye_-_Matahari.pdf.pdf) - Tere Liye (2016)
+
+
 
 ...
 
