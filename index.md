@@ -17,9 +17,7 @@ Berikut ini adalah koleksi yang dimiliki:
 10. [The Science of Human Nature A Psychology for Beginners ](ebook/The-Science-of-Human-Nature-A-Psychology-for-Beginners.pdf) - Pyle, William Henry (1917)
 11. [Resume Kuliah umum](ebook/Resume Kuliah umum _ Fina Nailul Musayaroh (1).pdf) -  Fina Nailul Musayaroh (13040123140147)
 
-
-
-
 ...
 
+<a href="webti/halaman1.html">halaman1.html</a>
 *Powered by Github Pages*
