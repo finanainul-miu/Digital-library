@@ -19,5 +19,5 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ...
 
-<a href="webti/halaman1.html">halaman1.html</a>
+<a href="webti/halaman1.html">halaman1.html</a> 
 *Powered by Github Pages*
